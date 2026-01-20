@@ -106,15 +106,36 @@ Advent-of-Code-2025
 
 ## 🛠️ Technologies Used
 
-* **Language**: C# (.NET)
-* **Environment**: Visual Studio / VS Code
-* **Core Concepts**:
+### Core Concepts
 
-  * Algorithms & Data Structures
-  * File I/O
-  * LINQ
-  * Recursion & Backtracking
-  * Geometry & Graph Traversal
+* **Algorithms & Data Structures**
+  Arrays, hash-based collections, stacks, queues, priority queues, interval processing, greedy strategies, and search-based techniques.
+
+* **File I/O**
+  Reading and parsing structured and semi-structured input files efficiently, with attention to robustness and performance.
+
+* **LINQ**
+  Functional-style data transformations for filtering, mapping, grouping, and aggregations, used where clarity outweighs raw performance costs.
+
+* **Recursion & Backtracking**
+  Depth-first exploration of solution spaces, pruning invalid states early, and managing recursion state safely.
+
+* **Geometry & Graph Traversal**
+  Grid-based problems, coordinate systems, distance calculations, flood fill, BFS/DFS, and pathfinding in implicit graphs.
+
+### Engineering Practices
+
+* **Clean Code & Readability**
+  Intent-revealing names, small focused methods, and clear separation of concerns.
+
+* **Complexity Analysis**
+  Explicit reasoning about time and space complexity, including trade-offs between readability and performance.
+
+* **Iterative Refinement**
+  Multiple solution versions to explore optimizations and alternative approaches.
+
+* **Problem Decomposition**
+  Breaking complex puzzles into smaller, testable units before implementation.
 
 ---
 
