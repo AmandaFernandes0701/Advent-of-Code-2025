@@ -96,9 +96,9 @@ Advent-of-Code-2025
 |  07 | Laboratories        | Simulating particle beams hitting splitters                | `#Simulation` `#Recursion`       |    ⭐   |    ⭐   |  [AoC](https://adventofcode.com/2025/day/7) · [Code](./day07) |
 |  08 | Playground          | Connecting electrical junction boxes with minimal wire     | `#Geometry` `#Distance`          |    ⭐   |    ⭐   |  [AoC](https://adventofcode.com/2025/day/8) · [Code](./day08) |
 |  09 | Movie Theater       | Finding the largest rectangle of red tiles on a floor      | `#Geometry` `#Search`            |    ⭐   |    ⭐   |  [AoC](https://adventofcode.com/2025/day/9) · [Code](./day09) |
-|  10 | Factory             | Configuring machine lights by pressing buttons             | `#LinearAlgebra` `#Optimization` |    ⬜   |    ⬜   | [AoC](https://adventofcode.com/2025/day/10) · [Code](./day10) |
+|  10 | Factory             | Configuring machine lights by pressing buttons             | `#LinearAlgebra` `#Optimization` |    ⬜   |    ⬜   | [AoC](https://adventofcode.com/2025/day/10) · Code            |
 |  11 | Reactor             | Finding paths in a network of devices                      | `#Graphs` `#Pathfinding`         |    ⭐   |    ⭐   | [AoC](https://adventofcode.com/2025/day/11) · [Code](./day11) |
-|  12 | Christmas Tree Farm | Packing present shapes into specific grid regions          | `#Backtracking` `#2DGrid`        |    ⬜   |    ⬜   | [AoC](https://adventofcode.com/2025/day/12) · [Code](./day12) |
+|  12 | Christmas Tree Farm | Packing present shapes into specific grid regions          | `#Backtracking` `#2DGrid`        |    ⬜   |    ⬜   | [AoC](https://adventofcode.com/2025/day/12) · Code            |
 
 **Legend:** ⭐ Completed   |   ⬜ Pending
 
